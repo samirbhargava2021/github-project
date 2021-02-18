@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SeachInput Component should render Search Input Component 1`] = `
+Array [
+  <div
+    className="search-container"
+  >
+    <input
+      aria-label="search"
+      className="search-container__search-input"
+      name="searchText"
+      onChange={[Function]}
+      placeholder="Enter Repository name.."
+      type="search"
+      value=""
+    />
+    <Button
+      data={
+        Object {
+          "text": "Search",
+          "theme": "light",
+        }
+      }
+      events={[Function]}
+      options={
+        Object {
+          "buttonSize": "small",
+        }
+      }
+    />
+  </div>,
+]
+`;

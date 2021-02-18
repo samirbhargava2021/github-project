@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ReposList Component should render ReposList Component 1`] = `
+Array [
+  <div
+    className="repo-section"
+  >
+    <React.Fragment>
+      <React.Fragment>
+        <HorizontalCard
+          repo={
+            Object {
+              "description": "Cheatsheets for experienced React developers getting started with TypeScript",
+              "languages": Object {
+                "nodes": Array [
+                  Object {
+                    "name": "JavaScript",
+                  },
+                  Object {
+                    "name": "CSS",
+                  },
+                ],
+              },
+              "name": "react",
+              "openGraphImageUrl": "https://repository-images.githubusercontent.com/135786093/b56ad700-6d50-11e9-9775-9f64c1e1414e",
+              "owner": Object {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/50188264?v=4",
+                "login": "typescript-cheatsheets",
+              },
+              "stargazerCount": 21954,
+              "updatedAt": "2021-02-18T02:44:13Z",
+              "url": "https://github.com/typescript-cheatsheets/react",
+            }
+          }
+        />
+        <hr />
+      </React.Fragment>
+    </React.Fragment>
+  </div>,
+]
+`;

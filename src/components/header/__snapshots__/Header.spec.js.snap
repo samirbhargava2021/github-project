@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderComponent should render Header Component 1`] = `
+Array [
+  <header
+    className="header"
+  >
+    <h1
+      className="header__title"
+    >
+      Search Repos
+    </h1>
+  </header>,
+]
+`;
